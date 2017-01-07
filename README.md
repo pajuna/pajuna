@@ -3,8 +3,7 @@
 This is the main repository of the Pajuna Project.  
 It is here for project wide issue tracking and documentation.
 
-See our [kanban board](http://waffle.io) for an overview of all issues relating to the various Pajuna repositories.
-
+See our [kanban board](https://waffle.io/pajuna/pajuna) for an overview of all issues relating to the various Pajuna repositories.
 
 <table>
   <tr>
